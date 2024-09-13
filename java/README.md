@@ -1,3 +1,1 @@
-- [<project name>]: <project description>
-- [<project name>]: <project description>
-- [<project name>]: <project description>
+- [Word Search](WordSearch): classic Word Search puzzle
