@@ -1,0 +1,30 @@
+e126,25,Byte
+e126,25,ByteByte
+e126,25,ByteByteB
+e126,25,gggggggggggggggggggggggggggggggg
+e8,5,gggggggggggggggggggggggggggggggg
+e256,123,It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change. --Charles Darwin
+d126,25,[%?*@kaE*P
+d126,25,~;,*BN*$V*R*C*Z&W.i*[q>/*EArI*U*F*]YJ!l*^t1
+e38875,1234,Leonhard Euler (1707 - 1783)
+d38875,1234,*]**w*\_K:3*MVR*I*S*ZOWn<*S|\u*Dn5lE*U
+e4611686018427387904,961168601842738797,Hello World!!!
+d4611686018427387904,961168601842738797,%k_*?f:8w*V*I*N% S
+e8611463117063,516687,If there's a problem you can't solve, then there is a simpler problem that you can solve. Find it!
+d8611463117063,516687,*Z*S_zX,.*H-8u*LcHB.eu*?]*Ncq*MJ*AEK*Sju<fi|*AXh*HC$s'^,e*\PxJ*O8*A*?`*Jjp#**SR*J;d*[]*Nu:9CrOy*E*GFs0ipdRFYA?,:T*$Z*H*Wc#fZ*[&"*Y n0*^*R|*O=*EF*DVS:*U*@*E@(XCADJ#a*Og*VW<v*H4Wln8uvx-;TuBZ'INR**l*\f*QM*IJ#
+126,25,Error
+e,126,25,Error
+e123456789012345678901,25,Error
+e126,25Error
+e00126,025,This is ok.
+e0,25,Error - lcg_m must be greater than 0.
+e126,0,Error lcg_c must be a positive integer.
+e4,3,Error - with lcg_m=4, lcg_a = 5, but 5 is > 4
+e7044463721,12345,Error - lcg_m is the product of 3 primes, so lcg_a>lcg_m
+e7044463720,12345,This one is okay.
+d126,25,[%?*@kaE* Error - this decrypts to a non-printing ascii character.
+e736880036,1,Can you encrypt a few stars? *****
+e32768,1,This lcg_m is a power of 2.
+d736880036,1,B*FQ<tM*]X={P*Adbc$@*Aq*H*M*I*W*C(tDw1p}2#t
+d4611686018427387904,961168601842738797,.o]Lpu*Y8*G*F*Def*V*FC2SFh*P#1/ub3U*D*A~*Rm*N3.*?*Mo*V+f?*K*Crk*$Syf*MyYVLPI*ZF4o*Q-O+*@*?i#@-*DGY!aZ*E*]y*Q*I2^**k`pv*$*TE*BwOcKsnPNj*Wdr+E*@f.=*WrcOvJ*E*F*?*U*H1p.[yM}[*B|v*JvB*QKfdRE_)VFn*[.*$**,6:*S*BGv*K!*V3 *E*S(X,(;*P*TrkyS{-\*R_L\*T*\^q!"*F2B-*U_:3A?*DO_d4\*R*Xq^*Y3L**mmt5sTE*I2*?h@7,F\/Lmc+HH|"~]*VcXv*CX*[UA*Y:ebCoM}V*H){*@a*I*G*M$i*\KT4PD<*W$*$-;b2F*S*Ay*N;*J*$l*?*So*T +$*U*Ws
+e4611686018427387904,961168601842738797,Can you manage something that is a bit on the longer side? Remember, you are handling the data one byte at a time, so you really shouldn't be bothered by a really long input line. Just keep processing it until you reach the end of the line. I don't want to see anyone holding an entire novel in memory!
