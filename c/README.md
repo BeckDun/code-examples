@@ -1,3 +1,1 @@
-- [<project name>]: <project description>
-- [<project name>]: <project description>
-- [<project name>]: <project description>
+- [LCG Cipher]: C program that uses a linear congruential generator to encrypt or decrypt given text.
