@@ -1,1 +1,1 @@
-- [LCG Cipher]: C program that uses a linear congruential generator to encrypt or decrypt given text.
+- [LCG Cipher](./lcg-cipher): C program that uses a linear congruential generator to encrypt or decrypt given text.
