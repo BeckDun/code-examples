@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Solver">
+    <output-path>$PROJECT_DIR$/out/artifacts/Solver</output-path>
+    <root id="archive" name="project-3-scrabble-BeckDun.jar">
+      <element id="module-output" name="project-3-scrabble-BeckDun" />
+      <element id="dir-copy" path="$PROJECT_DIR$/dictionaries_and_examples" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/Scrabble" />
+    </root>
+  </artifact>
+</component>
